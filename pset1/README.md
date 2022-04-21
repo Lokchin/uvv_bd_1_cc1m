@@ -8,3 +8,5 @@ O Markdown de maneira bem resumida, é uma linguagem de marcação criada para s
 Por exemplo, um ***\<h1\>texto\<\/h1\>*** usado HTML consegue ser resumido em um ***\# texto***.
 
 Utilizado como linguagem de formatação em diversos aplicativos e softwares de chats como o WhatsApp e Discord, utilizada também em controles de versão, usada também por diversos escritores por conta da facilidade de compartilhamento de manuscritos produzidos em markdown.O Github utiliza o Flavored Markdown, que é basicamente o Markdown com funções extras.
+
+A documentação de markdown é bem simples, pode ser consultada em [Markdown Guide](https://www.markdownguide.org/basic-syntax/).
