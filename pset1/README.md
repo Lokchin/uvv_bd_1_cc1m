@@ -27,10 +27,10 @@ Utlizando o comando `INSERT INTO esquema.entidade (atributo1, atributo2...) VALU
 #
 #### MariaDB
 1. ***O banco da dados*** <br>
-Cria um banco de dados.
+Primeiro se cria um banco de dados
 
 1. ***O usuário*** <br>
-Cria um usuário, e garante a ele os privilégios sobre o banco de dados criado anteriormente.
+Em seguida, um usuário, e garanta à ele os privilégios sobre o banco de dados criado anteriormente.
 
 1. ***As tabelas*** <br>
 Insira o comando para a criação das tabelas `CREATE TABLE entidade (atributos, tipos, chaves...);`.
