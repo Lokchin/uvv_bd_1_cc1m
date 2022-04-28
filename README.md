@@ -5,7 +5,7 @@
 
 #
 
-Este diretório tem a função de conter o subdiretório específico com os diretórios dos Psets, trabalhos da disciplina *Banco de Dados - I* do curso *Ciência da Computação na Universidade Vila Velha*.
+Este diretório tem a função de conter cada subdiretório específico com os arquivos dos Psets, trabalhos da disciplina *Banco de Dados - I* do curso *Ciência da Computação na Universidade Vila Velha*.
 #
 
 ### Linguagem Markdown.
