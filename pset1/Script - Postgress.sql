@@ -253,7 +253,8 @@ VALUES ('33344555587', 'Alicia', 'F', '1986-04-05', 'Filha'),
 /* Inserção de dados em dependente */
 
 INSERT INTO elmasri.trabalha_em (cpf_funcionario, numero_projeto, horas)
-VALUES ('12345678966', '1', '32.5'),
+VALUES ('98798798733', '10', '35')
+('12345678966', '1', '32.5'),
 ('12345678966', '2', '7.5'),
 ('66688444476', '3', '40'),
 ('45345345376', '1', '20'),
