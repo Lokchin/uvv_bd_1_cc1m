@@ -204,4 +204,3 @@ LEFT JOIN elmasri.trabalha_em AS trab ON (trab.cpf_funcionario=f.cpf)
 LEFT JOIN elmasri.projeto AS proj ON (proj.numero_projeto=trab.numero_projeto);
 
 
-
