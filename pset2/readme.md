@@ -1,6 +1,6 @@
 # Qual a função deste subdiretório?
 
-### Este subdiretório armazena o script em *SQL* para a obtenção de relatórios referentes ao PSet 2 no SGBD PostgreSQL.
+### Este subdiretório armazena o script em *SQL* para a obtenção de relatórios referentes ao PSet 2 no SGBD PostgreSQL. 
 #
 
 - Ao inserir o comando: `psql uvv -U postgres -W`, é possível fazer o login direto no banco de dados *uvv* através do usuário *Postgres*;
